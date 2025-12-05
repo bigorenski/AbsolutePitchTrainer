@@ -24,9 +24,13 @@ a progressive pitch-naming program that begins with a small subset of notes and 
 
 ## Audio
 
-The project uses high-quality acoustic piano samples from the  
+The project uses high-quality acoustic piano samples (then converted to mp3) from the  
 **University of Iowa Electronic Music Studios (MIS Piano)**:  
 https://theremin.music.uiowa.edu/MISpiano.html
 
-All required samples are already included in the repository under:
+All required samples are already included in the repository under: ./pianoSounds
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
 
