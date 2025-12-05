@@ -1,4 +1,4 @@
-# Absolute-Pitch Training (WIP)
+# Absolute Pitch Trainer (WIP)
 
 **Reproduction of the training protocol from:**  
 *“Learning fast and accurate absolute pitch judgment in adulthood” (2025)*  
