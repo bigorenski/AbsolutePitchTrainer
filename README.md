@@ -7,7 +7,7 @@ https://link.springer.com/article/10.3758/s13423-024-02620-2
 This project implements the core training paradigm described in the paper:  
 a progressive pitch-naming program that begins with a small subset of notes and gradually expands to all 12 chromatic tones. The training includes timed responses, accuracy/RT tracking, corrective feedback, and structured level progression.
 
-**Status:** Early experiments suggest the training behaves similarly to the results described in the paper, but the implementation is still under active development.
+**Status:** Early experiments suggest the training behaves similarly as the one described in the paper, but the implementation is still under active development.
 
 ---
 
